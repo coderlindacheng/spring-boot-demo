@@ -1,0 +1,12 @@
+{
+  "name": "groovy-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "L.D.C",
+  "license": "MIT",
+  "dependencies": {
+    "startbootstrap-sb-admin-2": "^4.0.5",
+    "popper.js": "^1.14.7",
+    "jquery-serializejson": "^2.9.0"
+  }
+}
